@@ -1,0 +1,14 @@
+{
+  "name": "@coolescoden/accounts-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Siebert",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
